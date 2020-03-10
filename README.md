@@ -39,6 +39,7 @@ repository was initialized in corresponding folder.
    
    git pull origin<branch_name>
    git push origin master
+   
  **8. Branching**
  We can check what your current branch by using the command:git branch.To create new branch use the command:
  
@@ -50,12 +51,14 @@ repository was initialized in corresponding folder.
  **9. Merging**
  To combine the work of different branches together, let us merge the two branches with the command :git merge branch_name.
  Checkout the master branch with the command: git checkout master and merge the command
+ 
      git checkout master
      git merge gopu
  
  **10. Rebasing**
  A way of combining  the work between different branches.Rebasing takes a set of commits for copying and storing them outside the
  local repository.To rebase using following commands like:
+ 
      git checkout -b gopika
      git commit -a -m "1st commit"
      git rebase gopika
