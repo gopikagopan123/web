@@ -38,6 +38,7 @@ repository was initialized in corresponding folder.
  of the team
    
    git pull origin<branch_name>
+   
    git push origin master
    
  **8. Branching**
