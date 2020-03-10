@@ -17,6 +17,7 @@ repository was initialized in corresponding folder.
  Firstly we want to create a git repository in github after creating git repository invite our team members.Then,
    
    git config --global user.name "gopikagopu"
+   
    git config --global user.email"gopikagopanply2@gmail.com"
    
  **4. Cloning the github repository**
