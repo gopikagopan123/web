@@ -40,7 +40,9 @@ repository was initialized in corresponding folder.
    git pull origin<branch_name>
    git push origin master
  **8. Branching**
- We can check what your current branch by using the command:git branch.To create new branch use the command:git branch<branch_name>
+ We can check what your current branch by using the command:git branch.To create new branch use the command:
+ 
+     git branch<branch_name>
      git branch
      git branch -a
      git pull
